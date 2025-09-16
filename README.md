@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Joao. I'm a software engineer fascinated about the web, in my spare time, I do open-sourcing.
+I'm Joao. I'm a Software Developer  fascinated about the web, in my spare time, I do open-sourcing.
 
 
 <!---
