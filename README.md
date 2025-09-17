@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Joao Aleixo</h1>
+<h1 align="center">Hi 😁, I'm Joao Aleixo</h1>
 <h3 align="center">I'm a Software Developer fascinated about the web, in my spare time, I do open-sourcing.</h3>
 
-- 🔭 I’m currently working on [Medipulso](https://medipulso.com/)
+-  I’m currently working on [Medipulso](https://medipulso.com/)
 
-- 👯 I’m looking to collaborate on [Medipulso](https://medipulso.com/)
+-  I’m looking to collaborate on [Medipulso](https://medipulso.com/)
 
-- 👨‍💻 All of my projects are available at [https://joaosacarimaaleixo.com/]
+-  All of my projects are available at [https://joaosacarimaaleixo.com/]
 
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js**
+-  Ask me about **JavaScript, React, Next.js, Node.js**
 
-- 📫 How to reach me **joaoaleixo@joaosacarimaaleixo.com**
+-  How to reach me **joaoaleixo@joaosacarimaaleixo.com**
 
-- 📄 Know about my experiences [https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf]
+-  Know about my experiences [https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf]
 
-- ⚡ Fun fact **I speak 6 languages**
+-  🙌 Fun fact **I speak 6 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
