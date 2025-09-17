@@ -5,20 +5,20 @@
 
 - 👯 I’m looking to collaborate on [Medipulso](https://medipulso.com/)
 
-- 👨‍💻 All of my projects are available at [https://joaosacarimaaleixo.com/](https://joaosacarimaaleixo.com/)
+- 👨‍💻 All of my projects are available at [https://joaosacarimaaleixo.com/]
 
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js**
 
 - 📫 How to reach me **joaoaleixo@joaosacarimaaleixo.com**
 
-- 📄 Know about my experiences [https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf](https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf)
+- 📄 Know about my experiences [https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf]
 
 - ⚡ Fun fact **I speak 6 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sacarimaaleixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sacarimaaleixo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-aleixo-a3aa32253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-aleixo-a3aa32253/" height="30" width="40" /></a>
+<a href="https://x.com/@sacarimaaleixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sacarimaaleixo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jo%c3%a3o-aleixo-a3aa32253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-aleixo-a3aa32253/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
