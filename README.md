@@ -5,7 +5,7 @@
 
 -  I’m looking to collaborate on [Medipulso](https://medipulso.com/)
 
--  All of my projects are available at [https://joaosacarimaaleixo.com/]
+-  Some of my projects are available at [https://joaosacarimaaleixo.com/]
 
 -  Ask me about **JavaScript, React, Next.js, Node.js**
 
