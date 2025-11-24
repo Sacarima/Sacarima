@@ -13,7 +13,7 @@
 
 -  Know about my experiences [https://joaosacarimaaleixo.com/assets/aleixo-resume.pdf]
 
--  🙌 Fun fact **I speak 6 languages**
+-  Fun fact **I speak 6 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
