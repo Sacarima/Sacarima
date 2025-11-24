@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😁, I'm Joao Aleixo</h1>
+<h1 align="center">Hi, I'm Joao Aleixo</h1>
 <h3 align="center">I'm a Software Developer fascinated about the web, in my spare time, I do open-sourcing.</h3>
 
 -  I’m currently working on [Medipulso](https://medipulso.com/)
